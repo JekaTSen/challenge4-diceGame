@@ -54,11 +54,17 @@
     "@coinbase/cdp-sdk": "1.52.0"
   },
   "devDependencies": {
+    "@rocketh/node": "^0.22.4",
+    "hardhat-deploy": "^2.3.0",
     "husky": "~9.1.6",
-    "lint-staged": "~13.2.2"
+    "lint-staged": "~13.2.2",
+    "rocketh": "^0.26.2"
   },
   "packageManager": "yarn@4.13.0",
   "engines": {
     "node": ">=22.10.0"
+  },
+  "dependencies": {
+    "vercel": "^65.14.0"
   }
 }

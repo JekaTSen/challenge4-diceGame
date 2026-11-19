@@ -1,3 +1,10 @@
+# tokenVendor Challenge - Speedrun Ethereum
+
+- Frontend: https://speedruneth4.vercel.app/dice
+- Contract1 (DiceGame): 0x673dfbd3abf48a333c01fe63ab2256d5af8594ee
+- Contract2 (RiggedRoll): 0x86062f01b0897e410f4f5a1bb30c92b006f3119d
+
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
